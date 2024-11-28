@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int main() {
     printf("     November 2024\n");
     printf("Mo Tu We Th Fr Sa Su\n");
